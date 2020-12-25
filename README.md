@@ -1,0 +1,2 @@
+# BP_network
+用纯python编写的一个只有几十行代码的BP神经网络训练MINST数据
